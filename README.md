@@ -90,6 +90,7 @@ An inevitable conclusion supporting this graph is that (unfortunately) the team 
 
 Check the final interactive network [here](https://pablo-a-baeza.github.io/Example_Test/index.html)
 [here](https://pablo-a-baeza.github.io/UEFA-Champions-League-2018-19-Network/index.html)
+[here](https://pablo-a-baeza.github.io/UEFA-Champions-League-18-19/index.html)
 
 ## Acknowledgments
 A great credit of the work of this repository goes to @ and @ . Their resources to learn social network analysis in R are unvaluable! An example of these are:
