@@ -86,12 +86,13 @@ Additionally,
 ![](https://github.com/Pablo-A-Baeza/UEFA-Champions-League-18-19/blob/master/Plots/champions_league_2019_final_plot.jpeg)
 
 This is the network corresponding to the last round of the tournament *final*. In short, we can see 32 teams, among these teams, *Liverpool* and *Tottenham* are highlighted because these two teams are the ones that have reached the final round of the competition, thus they will play the final game (**Saturday  1 June 2019, 21:00h CET**). These two teams are also the ones with more edges (6 each one).
-An inevitable conclusion supporting this graph is that (unfortunately) the team with the most victories (Barcelona = 8) is not the one that will play the final. In fact, to win this competition, teams don't just have to win games, but they have to win **key** games
+An inevitable conclusion supporting this graph is that (unfortunately) the team with the most victories (Barcelona = 8) is not the one that will play the final. In fact, to win this competition, teams don't just have to win games, but they have to win **key** games.
 
 Check the final interactive network [here](https://pablo-a-baeza.github.io/UEFA-Champions-League-18-19/index.html)
 
 ## Acknowledgments
-A great credit of the work of this repository goes to @ and @ . Their resources to learn social network analysis in R are unvaluable! An example of these are:
+A great credit of the work of this repository goes to @kateto and @pablobarbera . Their resources to learn social network analysis in R are unvaluable! An example of these are:
+
 - **Katya Ognyanova** [Ognyanova, K. (2018) Network visualization with R.](https://kateto.net/network-visualization)
 - **Pablo Barberá** [Introduction to Social Network Analysis with R](http://pablobarbera.com/big-data-upf/html/02a-networks-intro-visualization.html)
 
