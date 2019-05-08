@@ -86,7 +86,7 @@ Additionally,
 This is the network corresponding to the last round of the tournament 'final'. In short, we can see 32 teams, among these teams, *Liverpool* and *Tottenham* are highlighted because these two teams are the ones that have reached the final round of the competition, thus they will play the final game (**Saturday  1 June 2019, 21:00h CET**). These two teams are also the ones with more edges (6 each one).
 An inevitable conclusion supporting this graph is that (unfortunately) the team with the most victories (Barcelona = 8) is not the one that will play the final. Therefore, we could conclude that teams don't just have to win games, but they have to win **key** games.
 
-![](https://github.com/Pablo-A-Baeza/UEFA-Champions-League-2018-19-Network/blob/master/Plots/champions_league_2019_final_plot.jpeg)
+![](https://github.com/Pablo-A-Baeza/UEFA-Champions-League-18-19/blob/master/Plots/champions_league_2019_final_plot.jpeg)
 
 Check the final interactive network [here](https://pablo-a-baeza.github.io/Example_Test/index.html)
 [here](https://pablo-a-baeza.github.io/UEFA-Champions-League-2018-19-Network/index.html)
