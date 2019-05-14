@@ -83,8 +83,7 @@ Additionally,
 - **Nodes:** Each team is represented with a circle depicting its total victories. The bigger the circle, the more victories the time has
 - **Edges:** A link between two teams depicts whether those teams have played at least once against each other
 
-![](https://github.com/Pablo-A-Baeza/UEFA-Champions-League-18-19/blob/master/Plots/Champions_League_2019_Final_Plot.pdf)
-
+[click here](https://github.com/Pablo-A-Baeza/UEFA-Champions-League-18-19/blob/master/Plots/Champions_League_2019_Final_Plot.pdf)
 This is the network corresponding to the last round of the tournament *final*. In short, we can see 32 teams, among these teams, *Liverpool* and *Tottenham* are highlighted because these two teams are the ones that have reached the final round of the competition, thus they will play the final game (**Saturday  1 June 2019, 21:00h CET**). These two teams are also the ones with more edges (6 each one).
 An inevitable conclusion supporting this graph is that (unfortunately) the team with the most victories (Barcelona = 8) is not the one that will play the final. In fact, to win this competition, teams don't just have to win games, but they have to win **key** games.
 
