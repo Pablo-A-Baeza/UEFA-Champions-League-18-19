@@ -170,7 +170,7 @@ plot(final_g,
      edge.width = ew,
      edge.color = ecol,
      main = "Final network",
-     layout = layout_with_fr(semif_g))
+     layout = layout_with_dh(final_g))
 
 
 # Community detection
